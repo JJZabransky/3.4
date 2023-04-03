@@ -11,6 +11,7 @@ namespace _3._4
     {
         private TcpListener myServer;
         private bool isRunning;
+        public string[] commands = { "exit", "help", "date", "ipconfig"};
 
         public Server(int port)
         {
@@ -57,6 +58,16 @@ namespace _3._4
                 if(data == "ipconfig")
                 {
                     writer.WriteLine(System.Net.IPAddress.Any);
+                }
+                
+                if(data == "help")
+                {
+                    writer.WriteLine("-------------------------");
+                    foreach (string s in commands)
+                    {
+                        writer.WriteLine(s);
+                    }
+                    writer.WriteLine("-------------------------");
                 }
 
                 dataRecive = data + " prijato";
