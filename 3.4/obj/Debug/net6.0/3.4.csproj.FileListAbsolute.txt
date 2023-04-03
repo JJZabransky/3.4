@@ -1,0 +1,15 @@
+D:\C3b_Zabransky\3.4\3.4\bin\Debug\net6.0\3.4.exe
+D:\C3b_Zabransky\3.4\3.4\bin\Debug\net6.0\3.4.deps.json
+D:\C3b_Zabransky\3.4\3.4\bin\Debug\net6.0\3.4.runtimeconfig.json
+D:\C3b_Zabransky\3.4\3.4\bin\Debug\net6.0\3.4.dll
+D:\C3b_Zabransky\3.4\3.4\bin\Debug\net6.0\3.4.pdb
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.csproj.AssemblyReference.cache
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.AssemblyInfoInputs.cache
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.AssemblyInfo.cs
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.csproj.CoreCompileInputs.cache
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.dll
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\refint\3.4.dll
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.pdb
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\3.4.genruntimeconfig.cache
+D:\C3b_Zabransky\3.4\3.4\obj\Debug\net6.0\ref\3.4.dll
